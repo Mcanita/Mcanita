@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola, soy Mariel 👋. Soy desarrolladora back-end 💻.Actualmente estoy estudiando programación en la UTN 🎓, donde continúo perfeccionándome en desarrollo de software.
+Hola 👋. Soy desarrolladora back-end 💻.Actualmente estoy estudiando programación en la UTN 🎓, donde continúo perfeccionándome en desarrollo de software.
 Como autodidacta 📚, siempre estoy explorando nuevas tecnologías para seguir creciendo y mejorando mis habilidades 🚀.
 
  ## 🌐 Socials:
